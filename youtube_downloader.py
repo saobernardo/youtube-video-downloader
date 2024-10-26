@@ -2,7 +2,7 @@ from pytubefix import *
 import shutil
 import os
 
-yt = YouTube(input('Cole aqui sua url: '))
+yt = YouTube(input('Cole aqui sua url: ').strip())
 
 #print(yt.thumbnail_url)
 
