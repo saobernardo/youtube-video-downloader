@@ -5,7 +5,7 @@ Projeto curto que fiz para poder baixar vídeos do youtube pois os que achei ou 
 # Stack
 
 - Python
-- ffmpeg
+- ffmpeg (futuramente)
 
 # Inicialização
 
@@ -13,4 +13,4 @@ Crie o ambiente virtual python e execute o script initializer.bat para instalar 
 
 # Modo de execução
 
-execute o script youtube_downloader.py e quando pedir, cole o link. Ele seja baixado e transferido para a pasta de vídeos do Windows
+execute o script youtube_downloader.py e quando pedir, cole o link do vídeo desejado. Ele seja baixado e transferido para a pasta de vídeos do usuário atual
